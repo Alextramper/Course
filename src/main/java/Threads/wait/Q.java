@@ -25,7 +25,7 @@ public class Q {
                 wait();
             } catch (InterruptedException e) {
                 System.out.println("Exception is catched");
-            }
+            };
         this.n = n;
             valueSet = true;
         System.out.println("Отправлено: " + n);

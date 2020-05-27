@@ -1,0 +1,29 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+F
+src/test/java/Box.java,6\1\61d93b7ce22b085c3d4ec8643659958bee539bec
+M
+src/main/java/Study/Main.java,e\7\e744443f370e6fc6ddb2674e0e4a6b9feedd8525
+R
+"src/main/java/Study/ArrayUtil.java,c\8\c8a0684d96453daf2825df1e2d70a2a5820c8480
+S
+#src/main/java/SomeTask/Riddler.java,4\c\4ca20f224d61573268bef66eea256836e24efd41
+P
+ src/main/java/SomeTask/User.java,0\b\0bc8f6e8ba70f4a6b5155135131cfa4a5c7151ae
+R
+"src/main/java/absext/Triangle.java,8\0\80f363dc8d1e6036c9ad35f9be75dabf582b036d
+S
+#src/main/java/absext/Rectangle.java,7\4\74bc697b843a75df3f388ec767a64c7ca2885c1e
+P
+ src/main/java/absext/Figure.java,c\d\cd963ce4d132fbec96e632ff0d32330017d74a4b
+S
+#src/main/java/absext/Calculate.java,f\5\f5272f0e03e352faf201e7d7cc921f30b3d16c56
+V
+&src/main/java/StackTasks/DynStack.java,e\6\e6fac7830433e080c5674b0f631eae5adebf2d05
+X
+(src/main/java/StackTasks/FixedStack.java,b\6\b6be7ad056b506dd02c320b228bffe34e491fad1
+V
+&src/main/java/StackTasks/IntStack.java,d\4\d4ad675e776f96c3831d4a8c3e5674745724b4c7
+T
+$src/main/java/StackTasks/IfTest.java,e\4\e41447c613e7eac1fa79d078abeffcdf293d9f88

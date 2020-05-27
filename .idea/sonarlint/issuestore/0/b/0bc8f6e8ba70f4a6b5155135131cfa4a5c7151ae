@@ -1,0 +1,10 @@
+
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šä¢’øÿÿÿÿ8ïÏ”.
+Hsquid:S5411"*Use the primitive boolean expression here.(€‘¨Ä8Œ¿Ï”.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ãá¹›øÿÿÿÿ8‚êÇû”.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÈÒ¤Ö8ÃéÏ”.
+]squid:S1854":Remove this useless assignment to local variable "result".(…˜©Ìøÿÿÿÿ8«ÕÿØ•.
+Nsquid:S1481"+Remove this unused "result" local variable.(…˜©Ìøÿÿÿÿ8«ÕÿØ•.
+Osquid:S1612",Replace this lambda with a method reference.(³ú˜áûÿÿÿÿ8Âü›Ï”.
